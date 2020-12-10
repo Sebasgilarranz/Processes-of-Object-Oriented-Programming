@@ -19,6 +19,7 @@ This project is a full stack website using LAMP stack softwares. The following a
   <li> Search contacts </li>
 </ul>
 The files bieng hosted can be found in the folder above.
+
 The website url is: https://contactology.pythonanywhere.com/
 
 
