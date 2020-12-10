@@ -35,6 +35,7 @@ This project is a full stack website using MERN stack softwares. The following a
   <li> Look at account info </li>
 </ul>
 The files bieng hosted can be found in the folder above.
+
 The website url is: https://foodie-friendd.herokuapp.com/
 
 
